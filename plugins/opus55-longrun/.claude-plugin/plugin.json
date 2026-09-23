@@ -1,0 +1,8 @@
+{
+  "name": "opus55-longrun",
+  "version": "0.1.0",
+  "description": "Long-run workflow for Opus 5.5, based on 'Getting the Most Out of Opus 5.5' (Addy Osmani, Sep 2026): delegation briefs with done-criteria, subagent fleet audits, merge-blocker reviews, consistency checks, verified research, design exclusion lists, prompt linting, a destructive-command confirmation hook, and Stop hooks for checklist enforcement and blocked-on-me notifications.",
+  "author": {
+    "name": "smvlx"
+  }
+}

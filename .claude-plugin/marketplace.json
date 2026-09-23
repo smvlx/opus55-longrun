@@ -1,0 +1,15 @@
+{
+  "name": "opus55-longrun",
+  "description": "Long-run workflow plugin for Claude Code on Opus 5.5",
+  "owner": {
+    "name": "smvlx"
+  },
+  "plugins": [
+    {
+      "name": "opus55-longrun",
+      "source": "./plugins/opus55-longrun",
+      "description": "Long-run workflow for Opus 5.5: delegation briefs, subagent audits, merge-blocker reviews, verified research, design exclusions, prompt linting, and safety hooks.",
+      "version": "0.1.0"
+    }
+  ]
+}
